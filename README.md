@@ -1,8 +1,6 @@
-# Various-Projects-Code
-
 # Arduino_Code and Processing Code
 
-These files are for an automatic light switched using an arduino. The processing file is the GUI, while the Arduino code is uploaded to the microcontroller. Evidently, both are practically useless without the hardware, but just a demonstration of the code.
+These files are for an automatic light switch using an arduino. The processing file is the GUI, while the Arduino code is what was uploaded to the microcontroller. Evidently, both are practically useless without the hardware, but just a demonstration of the code.
 
 # Robotic_Arm_Code
 
